@@ -1,19 +1,19 @@
 [
     {
-        "codigo": "UC001",
+        "codigos": "UC001",
         "nome": "EstatísticaX",
         "area": "Matemática e EstatísticaY",
-        "descricao": "FUV.",
+        "descricaoX": "FUVI.",
         "carga_horaria": {
-            "teorica": 40,
-            "pratica": 20,
-            "extensao": 0,
-            "total": 60
+            "teorica": 10,
+            "pratica": 10,
+            "extensao": 10,
+            "total": 30
         },
         "ofertas": [
             {
-                "curso": "BICT Mar ZZZ",
-                "semestre": 2
+                "curso": "BICT Mar",
+                "semestre": 99
             }
         ],
         "observacoes": [

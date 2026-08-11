@@ -1,8 +1,8 @@
 [
     {
         "codigos": "UC001",
-        "nome": "EstatísticaX",
-        "area": "Matemática e EstatísticaY",
+        "nome": "Estatística",
+        "area": "Matemática e Estatística",
         "descricaoX": "FUVI.",
         "carga_horaria": {
             "teorica": 10,

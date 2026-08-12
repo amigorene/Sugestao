@@ -1,19 +1,18 @@
-[
+﻿[
     {
-        "codigos": "UC001",
-        "nome": "Estatística",
-        "area": "Matemática e Estatística",
-        "descricaoX": "FUVI.",
+        "codigo": "9950",
+        "nome": "ÁGUA E SAÚDE",
+        "area": "Exatas",
+        "descricao": "Fundamentos de estatística aplicada.",
         "carga_horaria": {
-            "teorica": 10,
-            "pratica": 10,
-            "extensao": 10,
-            "total": 30
+            "teorica": 0,
+            "pratica": 80,
+            "extensao": 80,
+            "total": 80
         },
         "ofertas": [
             {
-                "curso": "BICT Mar",
-                "semestre": 99
+                "curso": "ENGENHARIA AMBIENTAL (E)"
             }
         ],
         "observacoes": [
@@ -23,23 +22,25 @@
             "estatística",
             "dados"
         ],
-        "recomendacoes": []
+        "recomendacoes": [
+            "SISTEMAS DE ABASTECIMENTO E DE TRATAMENTO DE ÁGUA I",
+            "SISTEMAS DE ESGOTAMENTO SANITÁRIO E TRATAMENTO DE ÁGUA RESIDUÁRIA II"
+        ]
     },
     {
-        "codigo": "UC002",
-        "nome": "Inteligência Artificial",
-        "area": "Ciência de Dados",
+        "codigo": "10962",
+        "nome": "ANATOMIA COMPARADA DE VERTEBRADOS MARINHOS",
+        "area": "Biologicas",
         "descricao": "Introdução à Inteligência Artificial.",
         "carga_horaria": {
-            "teorica": 40,
-            "pratica": 20,
-            "extensao": 0,
-            "total": 60
+            "teorica": 30,
+            "pratica": 10,
+            "extensao": 40,
+            "total": 
         },
         "ofertas": [
             {
-                "curso": "Engenharia Ambiental",
-                "semestre": 5
+                "curso": "OCEANOGRAFIA (E)"
             }
         ],
         "observacoes": [
@@ -50,25 +51,27 @@
             "algoritmos"
         ],
         "recomendacoes": [
-            "UC001",
-            "UC003"
+            "BIODIVERSIDADE MARINHA II",
+            "BIODIVERSIDADE MARINHA I",
+            "FUNCIONAMENTO DA VIDA II",
+            "FUNCIONAMENTO DA VIDA I",
+            "ICTIOLOGIA E BIODIVERSIDADE COSTEIRA"
         ]
     },
     {
-        "codigo": "UC003",
-        "nome": "Machine Learning",
-        "area": "Ciência de Dados",
+        "codigo": "6469",
+        "nome": "APROVEITAMENTO DE RECURSO SOLAR",
+        "area": "Exatas",
         "descricao": "Aprendizado de máquina supervisionado e não supervisionado.",
         "carga_horaria": {
-            "teorica": 40,
+            "teorica": 60,
             "pratica": 20,
-            "extensao": 10,
-            "total": 70
+            "extensao": 80,
+            "total": 
         },
         "ofertas": [
             {
-                "curso": "Engenharia de Petróleo",
-                "semestre": 6
+                "curso": "ENGENHARIA DE PETRÓLEO (E), ENGENHARIA AMBIENTAL (E)"
             }
         ],
         "observacoes": [
@@ -80,8 +83,87 @@
             "ia"
         ],
         "recomendacoes": [
-            "UC001",
-            "UC002"
+            "INTRODUÇÃO AOS RECURSOS RENOVÁVEIS",
+            "FENÔMENOS ELETROMAGNÉTICOS",
+            "CONCEITOS DE SISTEMAS DE INFORMAÇÃO",
+            "FENÔMENOS TÉRMICOS",
+            "TERMODINÂMICA",
+            "CIÊNCIAS ATMOSFÉRICAS"
+        ]
+    },
+    {
+        "codigo": "10768",
+        "nome": "BASES DA MATEMÁTICA E ESTATÍSTICA",
+        "area": "Exatas",
+        "descricao": "de",
+        "carga_horaria": {
+            "teorica": 60,
+            "pratica": 20,
+            "extensao": 80,
+            "total": 
+        },
+        "ofertas": [
+            {
+                "curso": "Bict-Mar (1), ENGENHARIA DE PETRÓLEO (1), ENGENHARIA AMBIENTAL (1), OCEANOGRAFIA (1)"
+            }
+        ],
+        "observacoes": [
+            "k"
+        ],
+        "palavras_chave": [
+        ],
+        "recomendacoes": [
+            "PODE SER CURSADA EM QUALQUER TERMO"
+        ]
+    },
+    {
+        "codigo": "5964",
+        "nome": "BIOGEOQUÍMICA AMBIENTAL",
+        "area": "Exatas",
+        "descricao": "de",
+        "carga_horaria": {
+            "teorica": 28,
+            "pratica": 12,
+            "extensao": 40,
+            "total": 
+        },
+        "ofertas": [
+            {
+                "curso": "Bict-Mar (E), ENGENHARIA DE PETRÓLEO (E), OCEANOGRAFIA (6)"
+            }
+        ],
+        "observacoes": [
+            "h"
+        ],
+        "palavras_chave": [
+        ],
+        "recomendacoes": [
+            "QUÍMICA GERAL E INORGÂNICA",
+            "FENÔMENOS FÍSICO-QUÍMICOS"
+        ]
+    },
+    {
+        "codigo": "5303",
+        "nome": "BIOLOGIA MOLECULAR BÁSICA",
+        "area": "Biologicas",
+        "descricao": "dss",
+        "carga_horaria": {
+            "teorica": 0,
+            "pratica": 40,
+            "extensao": 40,
+            "total": 
+        },
+        "ofertas": [
+            {
+                "curso": "Bict-Mar (E), ENGENHARIA AMBIENTAL (E), OCEANOGRAFIA (E)"
+            }
+        ],
+        "observacoes": [
+        ],
+        "palavras_chave": [
+        ],
+        "recomendacoes": [
+            "FUNDAMENTOS DA BIOLOGIA"
         ]
     }
 ]
